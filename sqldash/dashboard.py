@@ -102,5 +102,5 @@ def render(conn: sqlite3.Connection) -> str:
 def write(conn: sqlite3.Connection, out: str | Path) -> Path:
     out = Path(out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(render(conn), encoding="utf-8")
+    out.write_text(render(conn), encoding="utf-8", newline="\n")
     return out

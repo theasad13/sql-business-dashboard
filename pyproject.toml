@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sqldash"
+version = "0.1.0"
+description = "SQL KPI views + data-quality checks -> interactive HTML dashboard and Power BI star schema, on invented sample data"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = []  # standard library only
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["sqldash"]
+
+[tool.setuptools.package-data]
+sqldash = ["assets/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
