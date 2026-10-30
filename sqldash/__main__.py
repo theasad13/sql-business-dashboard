@@ -132,7 +132,10 @@ def main(argv: list[str] | None = None) -> int:
         out = dashboard.write(conn, args.out or DEFAULT_HTML)
         print(f"\nDashboard: {out}")
     if args.command in ("demo", "powerbi"):
-        target = args.out if args.command == "powerbi" and args.out else DEFAULT_PBI
+        if args.command == "powerbi":
+            target = args.out or DEFAULT_PBI
+        else:  # demo: CSVs go next to the dashboard
+            target = args.out.parent / "powerbi" if args.out else DEFAULT_PBI
         counts = powerbi.export(conn, target)
         print(f"Power BI CSVs: {target}  ({', '.join(f'{k} {v:,}' for k, v in counts.items())})")
     if args.command == "export-sql":
