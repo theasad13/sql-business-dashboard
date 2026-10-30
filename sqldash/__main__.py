@@ -91,12 +91,17 @@ def screenshot(html: Path, out_dir: Path) -> list[Path]:
     if not browser:
         raise SystemExit("No Edge/Chrome found for screenshots; open examples/dashboard.html and capture by hand.")
     out_dir.mkdir(parents=True, exist_ok=True)
+    # Headless browsers clamp the window to ~500px wide, so the phone view is a 390px iframe.
+    phone = ROOT / "build" / "phone-frame.html"
+    phone.parent.mkdir(parents=True, exist_ok=True)
+    phone.write_text(f"<!doctype html><body style='margin:0'><iframe src='{html.resolve().as_uri()}' "
+                     "style='width:390px;height:5000px;border:0'></iframe>", encoding="utf-8")
     shots = []
-    for name, size in (("dashboard-desktop.png", "1400,2650"), ("dashboard-mobile.png", "390,5200")):
+    for name, size, page in (("dashboard-desktop.png", "1400,2350", html), ("dashboard-mobile.png", "390,5000", phone)):
         out = out_dir / name
         subprocess.run([browser, "--headless=new", "--disable-gpu", "--hide-scrollbars", "--force-color-profile=srgb",
-                        f"--window-size={size}", f"--screenshot={out}", html.resolve().as_uri()],
-                       check=True, capture_output=True, timeout=120)
+                        "--allow-file-access-from-files", f"--window-size={size}", f"--screenshot={out}",
+                        page.resolve().as_uri()], check=True, capture_output=True, timeout=120)
         shots.append(out)
     return shots
 

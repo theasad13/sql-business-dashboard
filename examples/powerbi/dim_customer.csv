@@ -1,0 +1,306 @@
+customer_key,customer_name,segment,region,created_on
+-1,Unknown,Unknown,Unknown,
+1,Lakeside Goods,Online Seller,East,2024-04-16
+2,Oak Outfitters,Retail Store,East,2024-01-01
+3,Harbor Distributors,Online Seller,South,2024-02-22
+4,Union Depot,Retail Store,West,2024-09-25
+5,Coastal Retail,Online Seller,North,2024-06-01
+6,Summit Office Supply,Retail Store,North,2024-01-01
+7,Cedar Co,Corporate,North,2024-01-01
+8,Silver Wholesale,Retail Store,East,2024-01-01
+9,Harbor Depot,Corporate,Central,2024-01-01
+10,Summit Market,Corporate,Central,2024-09-30
+11,Harbor Office Supply,Retail Store,East,2024-01-01
+12,Pioneer Goods,Corporate,North,2025-02-12
+13,Willow Partners,Retail Store,West,2024-01-01
+14,Maple Store,Retail Store,Central,2024-01-01
+15,Coastal Traders,Retail Store,West,2024-01-01
+16,Summit Supply,Online Seller,South,2024-01-02
+17,Willow Wholesale,Corporate,West,2024-01-01
+18,Lakeside Traders,Online Seller,West,2024-01-01
+19,Granite Goods,Retail Store,West,2024-07-15
+20,Summit Partners,Corporate,East,2024-01-01
+21,Golden Supply,Retail Store,East,2025-04-21
+22,Evergreen Mart,Online Seller,Central,2024-03-27
+23,Lakeside Mart,Retail Store,Central,2024-01-01
+24,Copper Mart,Retail Store,Central,2024-03-15
+25,Pioneer Partners,Online Seller,South,2024-01-01
+26,Summit Store,Corporate,Central,2024-08-12
+27,Prairie Traders,Retail Store,South,2025-04-12
+28,Harbor Mart,Online Seller,South,2025-03-29
+29,Copper Depot,Corporate,East,2025-05-01
+30,Granite Distributors,Retail Store,West,2024-09-01
+31,North Distributors,Retail Store,South,2024-05-21
+32,North Goods,Retail Store,South,2024-01-01
+33,Union Supply,Retail Store,West,2024-01-21
+34,Highland Co,Retail Store,South,2025-03-05
+35,Lakeside Distributors,Corporate,East,2024-01-01
+36,Summit Goods,Online Seller,West,2024-05-10
+37,Silver Mart,Online Seller,West,2024-01-01
+38,Cedar Market,Retail Store,South,2024-12-11
+39,Copper Wholesale,Corporate,South,2024-01-01
+40,Coastal Outfitters,Retail Store,West,2024-02-11
+41,Prairie Store,Retail Store,North,2024-01-01
+42,Prairie Office Supply,Online Seller,West,2024-01-01
+43,Silver Supply,Corporate,Central,2024-01-01
+44,Maple Hardware,Corporate,South,2024-03-18
+45,Coastal Store,Online Seller,South,2024-05-03
+46,Cedar Retail,Online Seller,West,2024-01-01
+47,Granite Partners,Retail Store,East,2024-01-01
+48,River Goods,Retail Store,East,2025-09-22
+49,Evergreen Outfitters,Retail Store,West,2024-01-01
+50,North Wholesale,Corporate,South,2025-09-16
+51,Copper Co,Retail Store,East,2024-01-01
+52,Prairie Wholesale,Corporate,East,2024-07-14
+53,Pioneer Traders,Online Seller,West,2025-05-17
+54,Highland Store,Retail Store,South,2025-01-12
+55,River Partners,Online Seller,South,2024-10-04
+56,Blue Retail,Retail Store,West,2024-07-08
+57,Maple Distributors,Online Seller,West,2024-04-12
+58,Lakeside Retail,Retail Store,West,2024-01-01
+59,Lakeside Wholesale,Corporate,East,2024-04-15
+60,Prairie Outfitters,Retail Store,North,2024-01-01
+61,Lakeside Co,Retail Store,North,2024-02-24
+62,Coastal Wholesale,Retail Store,South,2025-03-02
+63,Blue Outfitters,Online Seller,East,2025-08-25
+64,Prairie Goods,Online Seller,West,2024-07-31
+65,Maple Depot,Retail Store,East,2024-01-01
+66,Highland Market,Retail Store,South,2024-01-01
+67,Harbor Store,Retail Store,West,2024-07-21
+68,North Co,Corporate,Central,2024-01-01
+69,Evergreen Depot,Online Seller,South,2024-01-01
+70,Cedar Goods,Online Seller,East,2024-01-01
+71,Summit Traders,Retail Store,North,2025-08-12
+72,Summit Retail,Corporate,East,2024-06-28
+73,Willow Distributors,Retail Store,East,2025-05-18
+74,Granite Wholesale,Retail Store,North,2024-01-01
+75,Oak Office Supply,Retail Store,West,2024-01-01
+76,Silver Goods,Online Seller,Central,2024-01-02
+77,Copper Market,Retail Store,South,2025-03-28
+78,Evergreen Office Supply,Corporate,East,2024-05-04
+79,Harbor Retail,Online Seller,South,2024-01-01
+80,Pioneer Wholesale,Retail Store,Central,2024-06-06
+81,Prairie Depot,Retail Store,Central,2024-09-06
+82,Highland Partners,Online Seller,West,2024-01-01
+83,Union Mart,Retail Store,West,2024-01-01
+84,Evergreen Store,Online Seller,West,2025-04-02
+85,Golden Market,Online Seller,East,2024-01-01
+86,Lakeside Office Supply,Retail Store,West,2024-01-01
+87,Willow Depot,Retail Store,West,2024-06-04
+88,Blue Market,Online Seller,Central,2025-03-26
+89,Granite Market,Retail Store,Central,2024-03-17
+90,Maple Partners,Online Seller,West,2025-06-30
+91,Pioneer Store,Online Seller,Central,2024-01-01
+92,Willow Hardware,Corporate,West,2024-04-10
+93,River Wholesale,Retail Store,South,2024-01-01
+94,Maple Retail,Retail Store,South,2024-07-03
+95,Granite Hardware,Online Seller,South,2024-05-26
+96,Blue Partners,Online Seller,Central,2024-10-21
+97,River Supply,Retail Store,East,2025-03-10
+98,Oak Traders,Corporate,Central,2024-01-01
+99,Golden Hardware,Online Seller,North,2025-02-09
+100,Golden Partners,Online Seller,North,2025-05-23
+101,Oak Mart,Retail Store,Central,2024-01-01
+102,Union Co,Online Seller,West,2024-01-01
+103,Copper Retail,Online Seller,North,2024-01-01
+104,Prairie Market,Retail Store,North,2025-01-09
+105,River Traders,Retail Store,Central,2024-10-29
+106,Oak Co,Corporate,North,2025-02-10
+107,North Supply,Online Seller,North,2025-04-10
+108,Blue Office Supply,Retail Store,East,2024-01-01
+109,Evergreen Wholesale,Corporate,South,2024-03-05
+110,North Office Supply,Online Seller,North,2024-01-01
+111,River Office Supply,Retail Store,East,2024-01-01
+112,Pioneer Hardware,Online Seller,East,2025-02-28
+113,Blue Co,Corporate,South,2024-08-10
+114,Golden Retail,Retail Store,West,2025-01-02
+115,Union Outfitters,Corporate,Central,2024-01-01
+116,Willow Retail,Retail Store,South,2025-08-01
+117,Pioneer Supply,Online Seller,Central,2024-01-01
+118,Blue Store,Retail Store,Central,2025-07-07
+119,Summit Outfitters,Retail Store,North,2024-08-31
+120,River Depot,Retail Store,East,2024-01-01
+121,Silver Distributors,Online Seller,East,2024-01-01
+122,Silver Co,Online Seller,South,2024-02-01
+123,Highland Mart,Online Seller,East,2024-03-16
+124,Evergreen Market,Retail Store,East,2024-11-28
+125,Silver Retail,Online Seller,East,2024-04-27
+126,Lakeside Depot,Online Seller,North,2024-08-21
+127,Golden Co,Online Seller,South,2024-01-01
+128,Cedar Partners,Retail Store,North,2024-01-01
+129,Silver Outfitters,Retail Store,North,2025-07-29
+130,Summit Distributors,Online Seller,West,2024-02-22
+131,Pioneer Co,Online Seller,North,2024-08-17
+132,Maple Mart,Retail Store,South,2024-01-01
+133,Lakeside Store,Online Seller,West,2025-09-15
+134,Highland Office Supply,Retail Store,West,2024-01-01
+135,Highland Supply,Online Seller,South,2024-01-01
+136,Lakeside Hardware,Retail Store,South,2024-01-01
+137,Highland Goods,Online Seller,North,2024-01-01
+138,Maple Traders,Retail Store,West,2025-03-28
+139,Oak Market,Retail Store,North,2025-08-30
+140,Copper Traders,Retail Store,East,2024-01-01
+141,Harbor Partners,Retail Store,South,2024-01-01
+142,Blue Wholesale,Online Seller,East,2024-12-28
+143,Lakeside Market,Retail Store,Central,2025-08-12
+144,Union Hardware,Retail Store,South,2024-06-24
+145,Cedar Traders,Corporate,North,2024-09-06
+146,Cedar Outfitters,Corporate,West,2024-01-01
+147,Blue Supply,Online Seller,North,2024-12-25
+148,Golden Office Supply,Retail Store,North,2024-01-01
+149,Silver Office Supply,Retail Store,West,2025-07-31
+150,Coastal Depot,Online Seller,East,2024-11-19
+151,Blue Depot,Retail Store,South,2024-01-01
+152,Harbor Market,Retail Store,Central,2024-01-01
+153,Coastal Hardware,Online Seller,East,2024-02-12
+154,Silver Hardware,Retail Store,East,2024-01-01
+155,Maple Outfitters,Retail Store,West,2024-06-25
+156,North Traders,Online Seller,East,2024-01-01
+157,River Retail,Online Seller,North,2024-12-08
+158,Oak Hardware,Retail Store,West,2025-09-09
+159,Willow Store,Retail Store,South,2025-02-05
+160,Coastal Goods,Online Seller,West,2024-01-01
+161,Summit Hardware,Corporate,Central,2024-01-01
+162,Harbor Goods,Retail Store,Central,2024-01-01
+163,Union Partners,Retail Store,South,2025-06-03
+164,Golden Wholesale,Retail Store,South,2024-05-14
+165,Silver Partners,Online Seller,East,2025-03-24
+166,Coastal Distributors,Corporate,East,2025-04-04
+167,Evergreen Goods,Online Seller,Central,2024-01-01
+168,Prairie Hardware,Online Seller,West,2025-03-04
+169,Evergreen Distributors,Retail Store,South,2025-01-15
+170,North Hardware,Corporate,South,2024-10-06
+171,Granite Depot,Retail Store,Central,2024-12-23
+172,Oak Supply,Retail Store,South,2024-01-01
+173,Lakeside Outfitters,Online Seller,South,2024-01-01
+174,Prairie Distributors,Corporate,West,2025-09-22
+175,North Mart,Corporate,East,2025-06-24
+176,Union Traders,Retail Store,North,2025-09-29
+177,Cedar Mart,Online Seller,North,2024-09-04
+178,Oak Goods,Retail Store,East,2024-01-01
+179,Cedar Store,Corporate,East,2025-06-03
+180,Cedar Depot,Online Seller,Central,2024-01-01
+181,Granite Retail,Online Seller,East,2024-12-06
+182,Copper Outfitters,Online Seller,Central,2025-05-05
+183,Blue Distributors,Online Seller,East,2024-01-01
+184,Maple Supply,Corporate,East,2025-07-10
+185,Harbor Outfitters,Retail Store,Central,2024-01-01
+186,Golden Distributors,Retail Store,South,2025-01-30
+187,Prairie Co,Retail Store,West,2024-01-01
+188,Blue Goods,Corporate,North,2024-01-01
+189,Willow Market,Retail Store,West,2024-01-01
+190,Harbor Co,Corporate,East,2024-02-28
+191,Pioneer Outfitters,Corporate,West,2024-05-26
+192,Prairie Mart,Retail Store,North,2025-01-05
+193,Union Store,Online Seller,Central,2024-01-01
+194,Willow Co,Retail Store,West,2024-01-01
+195,North Market,Retail Store,East,2024-01-01
+196,Evergreen Hardware,Retail Store,Central,2024-05-05
+197,Summit Depot,Online Seller,Central,2024-11-23
+198,Golden Goods,Retail Store,South,2024-01-01
+199,Silver Depot,Retail Store,North,2024-05-22
+200,Pioneer Depot,Online Seller,East,2024-05-12
+201,Willow Traders,Corporate,West,2025-02-23
+202,Pioneer Office Supply,Online Seller,East,2024-12-18
+203,Harbor Supply,Online Seller,West,2024-01-01
+204,Golden Outfitters,Online Seller,South,2024-01-01
+205,Cedar Hardware,Online Seller,South,2024-01-01
+206,Oak Partners,Online Seller,East,2024-01-01
+207,Silver Traders,Retail Store,East,2024-12-11
+208,Evergreen Traders,Retail Store,North,2025-08-13
+209,Oak Wholesale,Online Seller,North,2025-07-12
+210,Maple Co,Corporate,West,2024-01-01
+211,Prairie Supply,Retail Store,North,2024-11-16
+212,Coastal Supply,Retail Store,South,2025-06-11
+213,Blue Traders,Retail Store,South,2024-01-01
+214,Union Office Supply,Retail Store,Central,2024-01-01
+215,Golden Mart,Online Seller,East,2025-05-25
+216,River Store,Retail Store,East,2024-01-01
+217,Harbor Traders,Online Seller,Central,2024-10-19
+218,Golden Depot,Corporate,West,2025-01-09
+219,Willow Office Supply,Retail Store,South,2024-01-01
+220,Pioneer Distributors,Online Seller,East,2024-01-01
+221,Evergreen Supply,Online Seller,South,2024-01-01
+222,Maple Wholesale,Retail Store,West,2025-06-15
+223,Copper Hardware,Retail Store,East,2024-01-01
+224,Highland Distributors,Retail Store,Central,2025-07-30
+225,Coastal Mart,Online Seller,Central,2024-01-28
+226,Cedar Distributors,Corporate,East,2024-01-01
+227,Copper Goods,Online Seller,West,2024-01-01
+228,Golden Traders,Online Seller,North,2025-03-04
+229,Blue Mart,Online Seller,Central,2024-03-04
+230,Golden Store,Corporate,East,2024-01-01
+231,Granite Store,Online Seller,West,2024-09-27
+232,Maple Goods,Online Seller,North,2024-10-31
+233,Highland Depot,Retail Store,East,2024-10-07
+234,Union Retail,Corporate,South,2024-01-01
+235,Coastal Office Supply,Corporate,North,2024-09-19
+236,Summit Co,Retail Store,East,2024-01-01
+237,Summit Wholesale,Retail Store,Central,2024-01-01
+238,Willow Mart,Retail Store,West,2024-01-01
+239,Pioneer Mart,Online Seller,Central,2024-07-23
+240,Highland Retail,Retail Store,West,2024-08-25
+241,Lakeside Partners,Corporate,North,2024-06-29
+242,Highland Wholesale,Online Seller,North,2024-10-23
+243,Union Market,Retail Store,Central,2024-01-01
+244,Pioneer Retail,Corporate,Central,2024-07-16
+245,North Partners,Online Seller,West,2024-01-01
+246,Willow Goods,Retail Store,East,2025-02-19
+247,Prairie Retail,Online Seller,North,2024-01-01
+248,Blue Hardware,Retail Store,West,2024-11-05
+249,Copper Office Supply,Retail Store,North,2025-04-21
+250,Union Distributors,Corporate,West,2024-01-01
+251,Highland Outfitters,Online Seller,North,2024-01-01
+252,Oak Retail,Retail Store,East,2025-07-04
+253,North Depot,Online Seller,East,2025-06-22
+254,Silver Market,Online Seller,North,2025-06-01
+255,Summit Mart,Corporate,East,2025-08-20
+256,Evergreen Partners,Retail Store,North,2025-07-31
+257,Prairie Partners,Online Seller,South,2024-08-11
+258,Oak Distributors,Retail Store,Central,2024-03-11
+259,Oak Store,Retail Store,North,2025-03-06
+260,Maple Market,Corporate,South,2024-01-01
+261,Granite Traders,Corporate,North,2025-02-06
+262,Maple Office Supply,Retail Store,North,2024-01-01
+263,Coastal Partners,Corporate,South,2024-01-01
+264,Evergreen Co,Retail Store,Central,2024-01-17
+265,Highland Traders,Retail Store,West,2024-09-07
+266,Highland Hardware,Retail Store,Central,2024-01-01
+267,Willow Supply,Online Seller,South,2024-11-24
+268,River Outfitters,Online Seller,South,2024-01-01
+269,North Outfitters,Retail Store,West,2024-02-18
+270,Granite Mart,Online Seller,South,2024-06-01
+271,Evergreen Retail,Retail Store,North,2024-05-27
+272,Pioneer Market,Corporate,East,2024-01-01
+273,Cedar Supply,Corporate,Central,2024-01-01
+274,River Hardware,Online Seller,East,2024-07-11
+275,Cedar Office Supply,Retail Store,North,2024-11-06
+276,Lakeside Supply,Corporate,North,2025-05-05
+277,River Co,Retail Store,North,2024-01-01
+278,Granite Outfitters,Retail Store,South,2025-04-22
+279,Union Wholesale,Corporate,Central,2024-01-01
+280,Coastal Market,Retail Store,South,2025-08-16
+281,Union Goods,Retail Store,East,2024-01-01
+282,Oak Depot,Online Seller,East,2025-05-17
+283,Willow Outfitters,Retail Store,East,2024-01-01
+284,Harbor Hardware,Online Seller,Central,2024-01-01
+285,North Store,Retail Store,East,2024-01-01
+286,Granite Supply,Retail Store,East,2025-05-09
+287,River Mart,Retail Store,North,2025-07-02
+288,Copper Supply,Online Seller,Central,2024-04-19
+289,Copper Partners,Online Seller,South,2024-01-01
+290,Harbor Wholesale,Retail Store,South,2024-11-03
+291,Copper Store,Corporate,West,2024-01-01
+292,Coastal Co,Retail Store,North,2025-03-20
+293,Granite Co,Corporate,Central,2024-08-23
+294,Copper Distributors,Retail Store,North,2024-01-01
+295,Silver Store,Retail Store,Central,2024-01-01
+296,River Distributors,Online Seller,South,2024-01-01
+297,North Retail,Retail Store,Central,2024-01-01
+298,Granite Office Supply,Online Seller,East,2024-02-24
+299,River Market,Online Seller,East,2024-11-30
+300,Cedar Wholesale,Retail Store,South,2025-03-18
+301,Lakeside Goods Ltd,Retail Store,North,2025-07-01
+302,Oak Outfitters,Corporate,South,2025-07-02
+303,Unplaced Account,Online Seller,Unknown,2025-07-03
+304,No Email Account,Retail Store,East,2025-07-04

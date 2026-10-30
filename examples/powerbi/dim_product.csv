@@ -1,0 +1,27 @@
+product_key,product_name,category,unit_cost,list_price
+-1,Unknown,Unknown,,
+1,Copy Paper A4 (box of 5),Office,23,32.4
+2,Ballpoint Pens (50),Office,10.8,14.6
+3,Desk Organizer,Office,15.05,22.8
+4,Heavy Duty Stapler,Office,18.22,27.2
+5,Whiteboard Markers (12),Office,7.64,11.4
+6,Floor Cleaner 5L,Cleaning,13.02,18.6
+7,Microfiber Cloths (24),Cleaning,11.5,16.2
+8,Hand Soap Refill 5L,Cleaning,15.41,21.4
+9,Trash Bags (100),Cleaning,7.81,12.8
+10,Disinfectant Spray (12),Cleaning,28.91,39.6
+11,Shipping Boxes Medium (25),Packaging,21.31,28.8
+12,Packing Tape (36 rolls),Packaging,31.82,44.2
+13,Bubble Wrap Roll 50m,Packaging,16.73,24.6
+14,Mailer Bags (100),Packaging,13.27,19.8
+15,Thermal Label Rolls (4),Packaging,15.31,26.4
+16,Coffee Beans 1kg,Breakroom,17.46,23.6
+17,Tea Assortment (100),Breakroom,10.47,15.4
+18,Paper Cups (500),Breakroom,19.4,31.8
+19,Bottled Water (24),Breakroom,5.76,8.6
+20,Snack Box Assorted,Breakroom,21.6,36
+21,Nitrile Gloves (100),Safety,8.71,13.2
+22,Safety Glasses,Safety,7.25,9.8
+23,Hi-Vis Vest,Safety,8.69,12.6
+24,First Aid Kit,Safety,29.52,48.4
+25,Ear Plugs (200),Safety,21.89,34.2
