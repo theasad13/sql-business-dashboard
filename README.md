@@ -39,7 +39,7 @@ This project replaces that with **SQL views as the single definition of each KPI
 Needs Python 3.11+. No packages to install; it uses only the standard library.
 
 ```bash
-git clone <this-repo-url> sql-business-dashboard
+git clone https://github.com/theasad13/sql-business-dashboard.git
 cd sql-business-dashboard
 python -m sqldash demo
 ```
